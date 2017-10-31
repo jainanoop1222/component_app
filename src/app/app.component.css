@@ -1,0 +1,30 @@
+.hor{
+  float: right;
+  padding: 8px;
+  display: inline-block;
+  background-color: #3b5998;
+}
+.hor1{
+  float: left;
+  padding: 8px;
+  display: inline-block;
+  background-color: #3b5998;
+}
+.navBar{
+  background-color:#3b5998;
+  width: 100%;
+  float: right;
+}
+#button1{
+  margin-top: 34px;
+  /*display: inline-block;*/
+}
+.abc{
+
+  float: right;
+}
+
+.cba{
+
+  float: left;
+}
